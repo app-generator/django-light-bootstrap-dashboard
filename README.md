@@ -1,4 +1,4 @@
-# [Django Dashboard - Light Bootstrap](https://django-dashboard-light-bootstrap.appseed.us/)
+# [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light)
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/) - Features
 
@@ -12,6 +12,7 @@
 
 > Links
 
+- [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Product page
 - [Django Dashboard - Light Bootstrap](https://django-dashboard-light-bootstrap.appseed.us/) - LIVE Demo
 - More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
@@ -212,4 +213,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Dashboard - Light Bootstrap](https://django-dashboard-light-bootstrap.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
