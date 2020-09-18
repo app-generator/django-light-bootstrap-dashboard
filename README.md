@@ -16,6 +16,8 @@
 - Deployment scripts: Docker, Gunicorn/Nginx
 - Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
 
+<br />
+
 > Links
 
 - [Django Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Official product page
