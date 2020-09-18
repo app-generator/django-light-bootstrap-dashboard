@@ -12,8 +12,9 @@
 
 > Links
 
-- [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Product page
-- [Django Dashboard - Light Bootstrap](https://django-dashboard-light-bootstrap.appseed.us/) - LIVE Demo
+- [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Official product page
+- [Django Light Bootstrap Demo](https://django-dashboard-light-bootstrap.appseed.us/) - LIVE app deployment
+- [Django Light Bootstrap Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-light/) - Official documentation
 - More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
