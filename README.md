@@ -1,4 +1,4 @@
-# [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light)
+# [Django Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light)
 
 > Admin dashboard coded in **Flask** Framework with basic modules, database, ORM and deployment scripts. 
 
@@ -220,4 +220,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
