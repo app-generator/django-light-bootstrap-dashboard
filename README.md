@@ -1,22 +1,28 @@
 # [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/) - Features
+> Admin dashboard coded in **Flask** Framework with basic modules, database, ORM and deployment scripts. 
 
-- UI Kit: **Light Bootstrap** (Free Version) by **Creative-Tim**
+<br />
+
+**Light Bootstrap Dashboard** is Bootstrap 4 admin dashboard template designed to be beautiful and simple. It is built on top of Bootstrap 4 and it is fully responsive. It comes with a big colections of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
+
+<br />
+
+**Codebase Features**
+
+- Reference Codebase - [Boilerplate Code - Django Dashboard](https://appseed.us/boilerplate-code/django-dashboard) 
 - UI-Ready app, SQLite Database, Django Native ORM
-- Modular design, clean code-base
+- Modular design, best practices codebase
 - Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** and [Discord](https://discord.gg/fZC6hup).
+- Deployment scripts: Docker, Gunicorn/Nginx
+- Support via Github (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
 
 > Links
 
-- [Django Dashboard - Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Official product page
+- [Django Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Official product page
 - [Django Light Bootstrap Demo](https://django-dashboard-light-bootstrap.appseed.us/) - LIVE app deployment
 - [Django Light Bootstrap Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-light/) - Official documentation
-- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
-- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
+- [Light Bootstrap Dashboard Design](https://demos.creative-tim.com/light-bootstrap-dashboard/documentation/tutorial-components.html) - Official documentation
 
 <br />
 
