@@ -10,7 +10,6 @@
 
 **Codebase Features**
 
-- Reference Codebase - [Boilerplate Code - Django Dashboard](https://appseed.us/boilerplate-code/django-dashboard) 
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, best practices codebase
 - Session-Based Authentication, Forms validation
