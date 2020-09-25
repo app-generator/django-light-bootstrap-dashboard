@@ -21,9 +21,8 @@
 > Links
 
 - [Django Light Bootstrap](https://appseed.us/admin-dashboards/django-dashboard-light) - Official product page
-- [Django Light Bootstrap Demo](https://django-dashboard-light-bootstrap.appseed.us/) - LIVE app deployment
-- [Django Light Bootstrap Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-light/) - Official documentation
-- [Light Bootstrap Dashboard Design](https://demos.creative-tim.com/light-bootstrap-dashboard/documentation/tutorial-components.html) - Official documentation
+- [Django Light Bootstrap - Demo](https://django-dashboard-light-bootstrap.appseed.us/) - LIVE app deployment
+- [Django Light Bootstrap - Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-light/) - Official documentation
 
 <br />
 
