@@ -1,0 +1,127 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Register {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+    <div class="content">
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="card">
+                        <div class="card-header">
+                            <h4 class="card-title">Register</h4>
+                            <br />
+                            <p>
+                                {% if msg %}
+                                    {{ msg | safe }}
+                                {% else %}
+                                    Add your credentials
+                                {% endif %}
+                            </p>
+                        </div>
+                        <div class="card-body">
+
+                            <form role="form" method="post" action="">
+
+                                {% csrf_token %} 
+                                
+                                <div class="row">
+
+                                    <div class="col-md-1 px-1">
+                                        <div class="form-group">
+                                            <label>Username</label>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-5 px-1">
+                                        <div class="form-group">
+                                            {{ form.username }}
+                                        </div>
+                                    </div>
+                                    <span class="text-error">{{ form.username.errors }}</span>
+
+                                </div>
+
+                                <div class="row">
+
+                                    <div class="col-md-1 px-1">
+                                        <div class="form-group">
+                                            <label>eMail</label>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-5 px-1">
+                                        <div class="form-group">
+                                            {{ form.email }}
+                                        </div>
+                                    </div>
+                                    <span class="text-error">{{ form.email.errors }}</span>
+
+                                </div>
+
+                                <div class="row">
+
+                                    <div class="col-md-1 pl-1">
+                                        <div class="form-group">
+                                            <label>Password</label>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-5 pl-1">
+                                        <div class="form-group">
+                                            {{ form.password1 }}
+                                        </div>
+                                    </div>
+                                    <span class="text-error">{{ form.password1.errors }}</span>
+
+                                </div>
+
+
+                                <div class="row">
+
+                                    <div class="col-md-1 pl-1">
+                                        <div class="form-group">
+                                            <label>Check</label>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-5 pl-1">
+                                        <div class="form-group">
+                                            {{ form.password2 }}
+                                        </div>
+                                    </div>
+                                    <span class="text-error">{{ form.password2.errors }}</span>
+                                    
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-1 pl-1"></div>
+
+                                    <div class="col-md-5 pl-1">
+                                        <button name="register" type="submit" class="btn btn-info btn-fill">Register</button>
+
+                                        &nbsp; &nbsp; Have an account? <a href="{% url 'login' %}" >Login</a>
+                                        <div class="clearfix"></div>                                        
+                                    </div>
+
+                                </div>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}
