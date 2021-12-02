@@ -44,11 +44,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-![Django Dashboard Argon - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-argon/master/media/django-dashboard-argon-screen.png)
-
-<br />
-
-![Django Dashboard - Light Bootstrap - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-light-bootstrap/master/media/django-dashboard-light-bootstrap-screen.png)
+![ Dashboard - Light Bootstrap - Template project provided by AppSeed.](https://user-images.githubusercontent.com/51070104/144502311-6cc943da-4dc1-474e-ad76-68c1d53be51f.gif)
 
 <br />
 
