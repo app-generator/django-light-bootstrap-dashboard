@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.4] 2022-06-11
+### Improvements
+
+- Built with [Light Bootstrap Generator](https://appseed.us/generator/light-bootstrap-dashboard/)
+ - Timestamp: `2022-06-11 12:28`
+
 ## [1.0.3] 2022-01-20
 ### Improvements
 
